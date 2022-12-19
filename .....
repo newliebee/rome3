@@ -29,8 +29,8 @@ local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/wally
 local SaveManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/wally-rblx/LinoriaLib/main/addons/SaveManager.lua'))()
 SaveManager:SetLibrary(Library)
 SaveManager:SetFolder("HitboxExtender")
-Library:Notify("made by mercyliebe")
-local mainWindow = Library:CreateWindow("Not fair cheat by mercyliebe")
+Library:Notify("made by Nasty")
+local mainWindow = Library:CreateWindow("Not fair cheat by Nasty")
 
 local mainTab = mainWindow:AddTab("Main")
 local mainGroupbox = mainTab:AddLeftGroupbox("Hitbox Extender")
